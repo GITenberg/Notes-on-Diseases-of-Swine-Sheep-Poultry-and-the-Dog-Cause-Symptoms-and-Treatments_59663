@@ -1,11 +1,16 @@
 _repo: Notes-on-Diseases-of-Swine-Sheep-Poultry-and-the-Dog-Cause-Symptoms-and-Treatments_59663
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59663-h/images/cover.jpg
 creator:
   author:
     agent_name: Korinek, Charles J.
     gutenberg_agent_id: '50560'
     url: http://www.gutenberg.org/2009/agents/50560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59663#Notes-on-Diseases-of-Swine-Sheep-Poultry-and-the-Dog-Cause-Symptoms-and-Treatments
 gutenberg_issued: '2019-06-02'
 gutenberg_type: Text
 identifiers:
